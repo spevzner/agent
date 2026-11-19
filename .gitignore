@@ -1,0 +1,12 @@
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Claude Code personal settings (shared .claude/agents stays tracked)
+.claude/settings.local.json
